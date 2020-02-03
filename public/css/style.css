@@ -1,0 +1,31 @@
+body {
+    font-family: Arial,sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+.main {
+    border: 4px solid #8B0000;
+    margin: 1rem auto;
+    padding: 15px 10px;
+    max-width: 600px;
+}
+.img {
+    border-radius: 25px;
+    border: 4px solid#8B0000;
+}
+.introFormat{
+    margin:20px;
+    font-size: 20px;
+}
+.gitLink {
+    background-color: #8B0000;
+    border: none;
+    color: white;
+    padding: 40px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
